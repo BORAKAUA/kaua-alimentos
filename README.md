@@ -1,3 +1,3 @@
 # kaua-alimentos
 localizado:no pé da serra 
-o que vendo:
+o que vendo:doces,salgados, 
