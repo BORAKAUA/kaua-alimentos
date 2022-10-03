@@ -1,3 +1,4 @@
-# kaua-alimentos
-localizado:no pé da serra 
-o que vendo:doces,salgados, 
+<b> #kaua-alimentos <b>
+<strike> localizado:no pé da serra <strike>
+<sub> o que vendo:doces,salgados, <sub>
+
